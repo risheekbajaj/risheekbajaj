@@ -1,56 +1,62 @@
-# Hi there, I'm Risheek Bajaj! 👋
+# Hi there, I'm Risheek Bajaj! 👋👨‍💻
 
-### 📊 Data Analyst | AI & Machine Learning Practitioner
+### *Data Analyst | Predictive Modeler | Business Intelligence Specialist*
 
-[cite_start]I am a results-driven Data Scientist/Analyst with nearly 2 years of experience transforming complex datasets into impactful business insights[cite: 81]. My passion lies in bridging the gap between raw data and strategic decision-making using **Python, SQL, and Power BI**.
-
-[cite_start]Currently, I am expanding my expertise in AI through the **Diploma in AI Lab at WorldQuant University**[cite: 118], while building solutions that solve real-world problems in finance, healthcare, and environmental analytics.
+I bridge the gap between **raw data** and **strategic business decisions**.
+With a background in **Corporate Operations (Wipro)** and **Marketing Analytics (Wunderman Thompson)**, I don't just build models—I build solutions that save money, reduce risk, and optimize workflows.
 
 ---
 
-### 🛠️ Technical Tech Stack
+### 🚀 **My "Business-First" Portfolio**
 
-**Languages & Databases:**
+I categorize my work by the *business value* it creates. Check out my key projects below:
+
+#### 📊 **Bucket A: Business Intelligence & Operations**
+*(Focus: Dashboarding, Automation, ROI Analysis)*
+
+| Project | Business Context | Tech Stack |
+| :--- | :--- | :--- |
+| **[Retail Supply Chain & Revenue Dashboard](https://github.com/risheekbajaj/Ecommerce_sales_data_analysis)** | **Retail:** Designed interactive Power BI dashboards to track sales KPIs and identify underperforming inventory. | `Power BI` `DAX` `Excel` |
+| **[HR Workflow Automation Tool](https://github.com/risheekbajaj/resume-intelligence)** | **Operations:** Automated the resume screening process using LLMs to reduce manual HR bandwidth by 40%. | `Python` `Streamlit` `GenAI` |
+| **[Consumer Banking Behavior Analysis](https://github.com/risheekbajaj/Personal-Finance-Dashboard)** | **Banking:** Built an end-to-end ETL pipeline to visualize personal spending habits and forecast savings. | `Python` `Pandas` `ETL` |
+
+#### 🔮 **Bucket B: Predictive Analytics & Risk Modeling**
+*(Focus: Forecasting, Probability, Statistical Scoring)*
+
+| Project | Business Context | Tech Stack |
+| :--- | :--- | :--- |
+| **[Financial Transaction Risk Engine](https://github.com/risheekbajaj/Credit_card_fraud_detection)** | **Banking (Risk):** Predictive model to flag fraudulent credit card transactions in real-time. | `Scikit-Learn` `Random Forest` |
+| **[Market Trend & Demand Forecasting](https://github.com/risheekbajaj/Delhi-AQI-Analysis-Prediction)** | **Sustainability/Logistics:** Time-series forecasting model to predict environmental trends (AQI) for resource planning. | `Time-Series` `Forecasting` |
+| **[Real Estate Market Analysis](https://github.com/risheekbajaj/property-price-prediction-gurugram)** | **Real Estate:** Regression analysis to predict property prices in Gurugram based on location features. | `Regression` `EDA` `Python` |
+| **[Patient Risk Stratification Model](https://github.com/risheekbajaj/Stroke-Risk-Prediction-using-SMOTE-Random-Forest-Logistic-Regression)** | **Healthcare:** Scoring engine to predict patient stroke risk, enabling early medical intervention. | `SMOTE` `Logistic Regression` |
+
+---
+
+### 🛠 **The Toolbox**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Data Analysis & Visualization:**
-![Power Bi](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-
-**Machine Learning & AI:**
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ---
 
-### 🚀 Featured Projects
+### 📈 **GitHub Stats**
 
-Here are a few projects that demonstrate my ability to deliver business value and predictive insights:
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **💰 Personal Financial Analysis** | [cite_start]Interactive dashboards to track spending, budgeting, and savings to enhance financial tracking[cite: 141, 142]. | **Power BI, Excel, Python** |
-| **🧠 Stroke Risk Prediction** | [cite_start]A machine learning prototype using SMOTE for class imbalance to predict stroke risk with high accuracy[cite: 139, 140]. | **Python, Scikit-Learn, ML** |
-| **🌍 Air Quality Analysis (Nairobi)** | [cite_start]Forecasting air pollution using ARMA time-series modeling and MongoDB for data extraction[cite: 146, 147]. | **Statsmodels, MongoDB, Python** |
-| **👁️ Computer Vision Lab** | [cite_start]Advanced CV models including object detection and face recognition (MTCNN)[cite: 121]. | **OpenCV, TensorFlow, CNNs** |
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=risheekbajaj&show_icons=true&theme=radical&hide_border=true" height="160" alt="Risheek's Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=risheekbajaj&layout=compact&theme=radical&hide_border=true" height="160" alt="Top Languages" />
+</div>
 
 ---
 
-### 💼 Work Experience Highlights
+### 📬 **Let's Connect**
 
-* [cite_start]**Data Analyst @ Kritko:** Designed interactive dashboards and performed trend forecasting to support business decision-making[cite: 94, 96, 97].
-* [cite_start]**Analyst @ Wunderman Thompson Studios:** Optimized email marketing campaigns via A/B testing and Power BI visualization[cite: 101, 103, 105].
+I am currently open to **Data Analyst, Product Analyst, and Predictive Analytics** roles in India (GCCs/Startups).
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/risheek-bajaj/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:bajajrisheek012@gmail.com)
 
-### 📫 Connect with Me
-
-* **LinkedIn:** [linkedin.com/in/risheekbajaj](https://www.linkedin.com/in/risheekbajaj)
-* **Email:** bajajrisheek012@gmail.com
-
-![Risheek's GitHub stats](https://github-readme-stats.vercel.app/api?username=risheekbajaj&show_icons=true&theme=radical)
+*"Data is not just numbers; it's the voice of your business telling you what to do next."*
