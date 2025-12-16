@@ -1,4 +1,4 @@
-# Hi there, I'm Risheek Bajaj! 👋👨‍💻
+# Hi there, I'm Risheek Bajaj! 👨‍💻
 
 ### *Data Analyst | Predictive Modeler | Business Intelligence Specialist*
 
