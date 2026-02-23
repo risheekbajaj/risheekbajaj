@@ -45,15 +45,6 @@ I categorize my projects by the value they create. Click the titles to view the 
 
 ---
 
-### 📈 **GitHub Activity**
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=risheekbajaj&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160" alt="Risheek's Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=risheekbajaj&layout=compact&theme=radical&hide_border=true" height="160" alt="Top Languages" />
-</div>
-
----
-
 ### 📬 **Let's Connect**
 
 I am open to **Data Analyst, Product Analyst, and Analytics Consultant** roles where I can drive business impact.
